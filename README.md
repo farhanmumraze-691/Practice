@@ -8,4 +8,6 @@ Fani
 
 ## Local
 
-Open index.html in your browser
+Open index.html in your browser.
+
+New line in feature-readme-instrcutions branch.
